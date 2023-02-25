@@ -1,4 +1,4 @@
-package com.example.practicasocket.utilities;
+package com.example.practicasocket.service;
 
 import java.io.IOException;
 import java.net.Socket;
